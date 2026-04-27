@@ -17,7 +17,7 @@
 
 - **Languages:** Python, SQL, C ,Java, HTML, CSS, JavaScript
 - **Libraries:** Pandas, NumPy, Scikit-learn  
-- **Visualization:** Matplotlib, Seaborn, Plotly  
+- **Data Visualization & BI:** Power BI, Matplotlib, Seaborn, Plotly  
 - **Tools:** Jupyter Notebook, Git, Streamlit  
 
 ---
