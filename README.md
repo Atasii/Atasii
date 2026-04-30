@@ -1,6 +1,8 @@
 # Hi, I'm Atasi 👋
 
-🎯 Aspiring Data Analyst | Machine Learning Enthusiast | Problem Solver  
+🎯 Aspiring Data Analyst | Machine Learning Enthusiast | Problem Solver 
+
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Online-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://atasikole.vercel.app/)
 
 ---
 
